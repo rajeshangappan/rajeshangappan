@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeshangappan
-- 👀 I’m interested in .net full stack development. Working as a fulltime freelancer.
+- 👀 I’m interested in .net full stack development.
 - 📫 you can reach me rajesh13it@gmail.com ...
 - Upwork profile - https://www.upwork.com/freelancers/~011f2f1e7e0530daec
 - company webpage - https://igrowwsmax.com/
