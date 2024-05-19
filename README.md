@@ -7,7 +7,7 @@
 
 looking for long term projects.
 
-- 10+ experience in .Net Technologies
+- 12+ experience in .Net Technologies
 - 6+ years experience in Xamarin forms.
 - 10+ years experience in Asp. NET MVC and WEB API
 - 5+ years experience in Windows Presentation Foundation
@@ -15,5 +15,5 @@ looking for long term projects.
 - Good experience in DevOps and using source Control like GIT, SVN & TFS.
 - Good experience of using 3rd part toolkit like Dev Express, Telerik and Syncfusion Controls.
 - Developing Xamarin mobile application end-end..
-- MicroService and Azure functions
+- MicroService and Azure
 
