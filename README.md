@@ -5,10 +5,11 @@
 
 looking for long term projects.
 
-- 12+ years experience in .Net Technologies
-- 6+ years experience in MicroService and Azure
-- 6+ years experience in Xamarin forms and MAUI.
-- 10+ years experience in Asp. NET MVC and WEB API
+- 14+ years experience in .Net Technologies
+- 8+ years experience in MicroService and Azure
+- 8+ years experience in Xamarin forms and MAUI.
+- 14+ years experience in Asp. NET MVC and WEB API
+- 3+ years experience in snowflake.
 - 5+ years experience in Windows Presentation Foundation
 - 10+ experience in Windows and WPF
 - Good experience in DevOps and using source Control like GIT, SVN & TFS.
